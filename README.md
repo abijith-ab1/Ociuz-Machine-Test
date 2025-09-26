@@ -27,7 +27,7 @@ Language: Python 3.10+
 
 📦 Installation
 1️⃣ Clone the repository
-git clone https://github.com/your-username/expense-tracker-api.git
+git clone https://github.com/abijith-ab1/Ociuz-Machine-Test.git
 cd expense-tracker-api
 
 2️⃣ Create & activate a virtual environment
